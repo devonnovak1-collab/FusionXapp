@@ -1,5 +1,5 @@
-requirements
 streamlit
 pandas
 numpy
-fpdf
+fpdf2
+plotly
